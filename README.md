@@ -4,3 +4,8 @@ Coming from Linux I do love the command line. So I thought I would make a collec
 
 ## Text Editors
 * [Micro](https://micro-editor.github.io/) - Similar to nano on nix environments. 
+
+## Utilities
+* [Speedtest](https://www.speedtest.net/apps/cli) - Get your internet up and down speed.
+
+
