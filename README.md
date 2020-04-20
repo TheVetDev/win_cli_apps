@@ -2,6 +2,9 @@
 
 Coming from Linux I do love the command line. So I thought I would make a collection of cool command line apps for Windows. 
 
+## MultiMedia
+* [musikcube](https://musikcube.com/) - a fully functional terminal-based music player, library, and streaming audio server that runs natively on Windows, macOS, and Linux.
+
 ## Text Editors
 * [Micro](https://micro-editor.github.io/) - Similar to nano on nix environments. 
 
